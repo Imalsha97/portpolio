@@ -1,0 +1,101 @@
+html
+{
+	scroll-behavior:smooth;
+}
+
+body {
+	background: #1f2235;
+	font-family:"baloo tarma 2",cursive;
+
+
+}
+
+.navigation-link
+{
+	border:2px solid transparent ;
+
+}
+.navigation-link:hover
+{
+	text-decoration: none;
+	border-bottom: 2px solid yellow;
+	transition: 0.5s ease;
+
+}
+.main-container{
+	min:height:100vh;
+	padding-top:3rem;
+}
+.main_row
+{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.dp
+{
+		margin-top: auto;
+		margin-bottom: auto;	
+}
+.main_row h1
+{
+	font-size:5rem;
+}
+.main_row img
+{
+	width:auto;
+	height:50vh;
+}
+.kj
+{
+	font-size:14px;
+}
+#about{
+
+	background: #313552;
+	border-radius: 0.5rem;
+}
+.card
+{
+	border-bottom: 8px solid #f5ba99;
+}
+.card-columns {
+   column-gap: 40px;;
+}
+#project{
+	text-align: center;
+	background: #313552;
+	border-radius: 0.5rem;
+}
+.ima
+{
+	margin: 0 auto;
+    width: 80%;
+}
+#social
+{	
+	text-align: center;
+	background: #313552;
+	border-radius: 0.5rem;
+
+
+}
+#skill
+{
+	text-align: center;
+	background: #313552;
+	border-radius: 0.5rem;
+
+
+}
+.media_link
+{
+	
+	
+	
+	border:2px solid #f5ba09;
+	border-radius: 0.5rem;
+
+
+
+}
