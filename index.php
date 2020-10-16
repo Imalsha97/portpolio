@@ -1,5 +1,6 @@
 <?php
 
-include_once("test7.html");
+include("test7.html");
+include("resume.html");
 
 ?>
